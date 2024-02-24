@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 new -feature
 no-fast forward
-main conflict
+
+conflict branch test
