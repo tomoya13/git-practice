@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new file 
+=======
+created new file
+>>>>>>> 74cbebfad438ddbf1f69094ec1737cafa3775251
